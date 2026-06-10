@@ -1,0 +1,45 @@
+C:\Users\Doris\source\repos\2026\SD4\AnnuaireBST\AnnuaireBST\obj\Debug\net8.0\AnnuaireBST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Doris\source\repos\2026\SD4\AnnuaireBST\AnnuaireBST\obj\Debug\net8.0\AnnuaireBST.AssemblyInfoInputs.cache
+C:\Users\Doris\source\repos\2026\SD4\AnnuaireBST\AnnuaireBST\obj\Debug\net8.0\AnnuaireBST.AssemblyInfo.cs
+C:\Users\Doris\source\repos\2026\SD4\AnnuaireBST\AnnuaireBST\obj\Debug\net8.0\AnnuaireBST.csproj.CoreCompileInputs.cache
+C:\Users\Doris\source\repos\2026\SD4\AnnuaireBST\AnnuaireBST\bin\Debug\net8.0\AnnuaireBST.exe
+C:\Users\Doris\source\repos\2026\SD4\AnnuaireBST\AnnuaireBST\bin\Debug\net8.0\AnnuaireBST.deps.json
+C:\Users\Doris\source\repos\2026\SD4\AnnuaireBST\AnnuaireBST\bin\Debug\net8.0\AnnuaireBST.runtimeconfig.json
+C:\Users\Doris\source\repos\2026\SD4\AnnuaireBST\AnnuaireBST\bin\Debug\net8.0\AnnuaireBST.dll
+C:\Users\Doris\source\repos\2026\SD4\AnnuaireBST\AnnuaireBST\bin\Debug\net8.0\AnnuaireBST.pdb
+C:\Users\Doris\source\repos\2026\SD4\AnnuaireBST\AnnuaireBST\obj\Debug\net8.0\AnnuaireBST.dll
+C:\Users\Doris\source\repos\2026\SD4\AnnuaireBST\AnnuaireBST\obj\Debug\net8.0\refint\AnnuaireBST.dll
+C:\Users\Doris\source\repos\2026\SD4\AnnuaireBST\AnnuaireBST\obj\Debug\net8.0\AnnuaireBST.pdb
+C:\Users\Doris\source\repos\2026\SD4\AnnuaireBST\AnnuaireBST\obj\Debug\net8.0\AnnuaireBST.genruntimeconfig.cache
+C:\Users\Doris\source\repos\2026\SD4\AnnuaireBST\AnnuaireBST\obj\Debug\net8.0\ref\AnnuaireBST.dll
+C:\Users\Doris\source\repos\2026\SD4\AnnuaireBST\AnnuaireBST\bin\Debug\net8.0\contacts.csv
+C:\Users\Doris\source\repos\2026\SD4\AnnuaireBST _Hybride\AnnuaireBST\bin\Debug\net8.0\contacts.csv
+C:\Users\Doris\source\repos\2026\SD4\AnnuaireBST _Hybride\AnnuaireBST\bin\Debug\net8.0\AnnuaireBST.exe
+C:\Users\Doris\source\repos\2026\SD4\AnnuaireBST _Hybride\AnnuaireBST\bin\Debug\net8.0\AnnuaireBST.deps.json
+C:\Users\Doris\source\repos\2026\SD4\AnnuaireBST _Hybride\AnnuaireBST\bin\Debug\net8.0\AnnuaireBST.runtimeconfig.json
+C:\Users\Doris\source\repos\2026\SD4\AnnuaireBST _Hybride\AnnuaireBST\bin\Debug\net8.0\AnnuaireBST.dll
+C:\Users\Doris\source\repos\2026\SD4\AnnuaireBST _Hybride\AnnuaireBST\bin\Debug\net8.0\AnnuaireBST.pdb
+C:\Users\Doris\source\repos\2026\SD4\AnnuaireBST _Hybride\AnnuaireBST\obj\Debug\net8.0\AnnuaireBST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Doris\source\repos\2026\SD4\AnnuaireBST _Hybride\AnnuaireBST\obj\Debug\net8.0\AnnuaireBST.AssemblyInfoInputs.cache
+C:\Users\Doris\source\repos\2026\SD4\AnnuaireBST _Hybride\AnnuaireBST\obj\Debug\net8.0\AnnuaireBST.AssemblyInfo.cs
+C:\Users\Doris\source\repos\2026\SD4\AnnuaireBST _Hybride\AnnuaireBST\obj\Debug\net8.0\AnnuaireBST.csproj.CoreCompileInputs.cache
+C:\Users\Doris\source\repos\2026\SD4\AnnuaireBST _Hybride\AnnuaireBST\obj\Debug\net8.0\AnnuaireBST.dll
+C:\Users\Doris\source\repos\2026\SD4\AnnuaireBST _Hybride\AnnuaireBST\obj\Debug\net8.0\refint\AnnuaireBST.dll
+C:\Users\Doris\source\repos\2026\SD4\AnnuaireBST _Hybride\AnnuaireBST\obj\Debug\net8.0\AnnuaireBST.pdb
+C:\Users\Doris\source\repos\2026\SD4\AnnuaireBST _Hybride\AnnuaireBST\obj\Debug\net8.0\AnnuaireBST.genruntimeconfig.cache
+C:\Users\Doris\source\repos\2026\SD4\AnnuaireBST _Hybride\AnnuaireBST\obj\Debug\net8.0\ref\AnnuaireBST.dll
+C:\LaSalle\DataStructures\0-Projet\0-Final_version\AnnuaireBST_V2_StructureHybride\AnnuaireBST _Hybride\AnnuaireBST\bin\Debug\net8.0\contacts.csv
+C:\LaSalle\DataStructures\0-Projet\0-Final_version\AnnuaireBST_V2_StructureHybride\AnnuaireBST _Hybride\AnnuaireBST\bin\Debug\net8.0\AnnuaireBST.exe
+C:\LaSalle\DataStructures\0-Projet\0-Final_version\AnnuaireBST_V2_StructureHybride\AnnuaireBST _Hybride\AnnuaireBST\bin\Debug\net8.0\AnnuaireBST.deps.json
+C:\LaSalle\DataStructures\0-Projet\0-Final_version\AnnuaireBST_V2_StructureHybride\AnnuaireBST _Hybride\AnnuaireBST\bin\Debug\net8.0\AnnuaireBST.runtimeconfig.json
+C:\LaSalle\DataStructures\0-Projet\0-Final_version\AnnuaireBST_V2_StructureHybride\AnnuaireBST _Hybride\AnnuaireBST\bin\Debug\net8.0\AnnuaireBST.dll
+C:\LaSalle\DataStructures\0-Projet\0-Final_version\AnnuaireBST_V2_StructureHybride\AnnuaireBST _Hybride\AnnuaireBST\bin\Debug\net8.0\AnnuaireBST.pdb
+C:\LaSalle\DataStructures\0-Projet\0-Final_version\AnnuaireBST_V2_StructureHybride\AnnuaireBST _Hybride\AnnuaireBST\obj\Debug\net8.0\AnnuaireBST.GeneratedMSBuildEditorConfig.editorconfig
+C:\LaSalle\DataStructures\0-Projet\0-Final_version\AnnuaireBST_V2_StructureHybride\AnnuaireBST _Hybride\AnnuaireBST\obj\Debug\net8.0\AnnuaireBST.AssemblyInfoInputs.cache
+C:\LaSalle\DataStructures\0-Projet\0-Final_version\AnnuaireBST_V2_StructureHybride\AnnuaireBST _Hybride\AnnuaireBST\obj\Debug\net8.0\AnnuaireBST.AssemblyInfo.cs
+C:\LaSalle\DataStructures\0-Projet\0-Final_version\AnnuaireBST_V2_StructureHybride\AnnuaireBST _Hybride\AnnuaireBST\obj\Debug\net8.0\AnnuaireBST.csproj.CoreCompileInputs.cache
+C:\LaSalle\DataStructures\0-Projet\0-Final_version\AnnuaireBST_V2_StructureHybride\AnnuaireBST _Hybride\AnnuaireBST\obj\Debug\net8.0\AnnuaireBST.dll
+C:\LaSalle\DataStructures\0-Projet\0-Final_version\AnnuaireBST_V2_StructureHybride\AnnuaireBST _Hybride\AnnuaireBST\obj\Debug\net8.0\refint\AnnuaireBST.dll
+C:\LaSalle\DataStructures\0-Projet\0-Final_version\AnnuaireBST_V2_StructureHybride\AnnuaireBST _Hybride\AnnuaireBST\obj\Debug\net8.0\AnnuaireBST.pdb
+C:\LaSalle\DataStructures\0-Projet\0-Final_version\AnnuaireBST_V2_StructureHybride\AnnuaireBST _Hybride\AnnuaireBST\obj\Debug\net8.0\AnnuaireBST.genruntimeconfig.cache
+C:\LaSalle\DataStructures\0-Projet\0-Final_version\AnnuaireBST_V2_StructureHybride\AnnuaireBST _Hybride\AnnuaireBST\obj\Debug\net8.0\ref\AnnuaireBST.dll
